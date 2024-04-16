@@ -12,8 +12,8 @@ https://anton-forzun.github.io/carousel-vue/
 8. Extra: Add transitions and/or animations for the list of selected images
 
 # install project
-npm i
-npm run dev
+1. npm i
+2. npm run dev
 
 # Vue 3 + Vite
 
