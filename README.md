@@ -1,12 +1,15 @@
+# DEMO
+https://anton-forzun.github.io/carousel-vue/
+
 # implemented in the project
-1.List of images with prev and next buttons for infinite scrolling
-2.Clicking prev/next buttons should scroll exactly one image left/right
-3.Desktop version: number of visible images should vary to fit the viewport width
-4.Mobile version: show one full-width image
-5.Make carousel a separate component with the list of images as a prop
-6.Each image can be selected (mark it visually). List of selected image urls should be placed below the carousel
-7.Extra: Add transitions and/or animations for the carousel
-8.Extra: Add transitions and/or animations for the list of selected images
+1. List of images with prev and next buttons for infinite scrolling
+2. Clicking prev/next buttons should scroll exactly one image left/right
+3. Desktop version: number of visible images should vary to fit the viewport width
+4. Mobile version: show one full-width image
+5. Make carousel a separate component with the list of images as a prop
+6. Each image can be selected (mark it visually). List of selected image urls should be placed below the carousel
+7. Extra: Add transitions and/or animations for the carousel
+8. Extra: Add transitions and/or animations for the list of selected images
 
 # install project
 npm i
